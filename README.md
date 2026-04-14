@@ -1,0 +1,2 @@
+# U.S.-Oil-Import-Analysis-Dependency-Trends-and-Volatility
+This project analyzes U.S. petroleum import data using the U.S. Energy Information Administration (EIA) API. The goal is to understand how import patterns evolve over time, which countries dominate supply, and how stable or volatile these imports are.  The analysis follows a full data analytics pipeline, including data extraction from an API.
